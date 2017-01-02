@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<p k="strings">
+  <p k="strings-age.age-approximate-marker" v="~" />
+  <p k="strings-age.age-at-format" v="at age {0}" />
+  <p k="strings-age.age-commas-format" v=", age {0}," />
+  <p k="strings-child.f" v="Daughter" />
+  <p k="strings-child.m" v="Son" />
+  <p k="strings-child.u" v="Child" />
+  <p k="strings-dates-era.before-common-era" v=" BCE" />
+  <p k="strings-dates-labels.lifespan-birth" v="born||b." />
+  <p k="strings-dates-labels.lifespan-death" v="died||d." />
+  <p k="strings-dates-modifiers.m02" v="Before||Bef" />
+  <p k="strings-dates-modifiers.m03" v="To||To" />
+  <p k="strings-dates-modifiers.m04" v="Estimated||Est" />
+  <p k="strings-dates-modifiers.m05" v="About||Abt" />
+  <p k="strings-dates-modifiers.m06" v="Circa||ca." />
+  <p k="strings-dates-modifiers.m07" v="Say||Say" />
+  <p k="strings-dates-modifiers.m08" v="Calculated||Cal" />
+  <p k="strings-dates-modifiers.m09" v="Interpreted||Int" />
+  <p k="strings-dates-modifiers.m10" v="" />
+  <p k="strings-dates-modifiers.m11" v="After||Aft" />
+  <p k="strings-dates-modifiers.m13" v="Between||Bet|| and || and " />
+  <p k="strings-dates-modifiers.m14" v="|||| or || or " />
+  <p k="strings-dates-modifiers.m15" v="From||From|| to ||-" />
+  <p k="strings-dates-months.m01" v="January||Jan" />
+  <p k="strings-dates-months.m02" v="February||Feb" />
+  <p k="strings-dates-months.m03" v="March||Mar" />
+  <p k="strings-dates-months.m04" v="April||Apr" />
+  <p k="strings-dates-months.m05" v="May||May" />
+  <p k="strings-dates-months.m06" v="June||Jun" />
+  <p k="strings-dates-months.m07" v="July||Jul" />
+  <p k="strings-dates-months.m08" v="August||Aug" />
+  <p k="strings-dates-months.m09" v="September||Sep" />
+  <p k="strings-dates-months.m10" v="October||Oct" />
+  <p k="strings-dates-months.m11" v="November||Nov" />
+  <p k="strings-dates-months.m12" v="December||Dec" />
+  <p k="strings-dates-prepositions.before-day" v="on" />
+  <p k="strings-dates-prepositions.before-month" v="in" />
+  <p k="strings-dates-prepositions.before-year" v="in" />
+  <p k="strings-exhibits.references-prefix" v="See:" />
+  <p k="strings-family-explorer.button-label" v="Family Explorer" />
+  <p k="strings-family-explorer.children-heading" v="Partners &amp; Children" />
+  <p k="strings-family-explorer.sibling-heading" v="Siblings" />
+  <p k="strings-family-heading-sentences.children-of-label" v="" />
+  <p k="strings-family-heading-sentences.children-of-value" v="&lt;[R:Child:2+]Children|[R:Child:+]Child|Partner&gt;&lt; with [PO]&lt; (&lt;b. [PO:PB]&gt;&lt;[+:, ]d. [PO:PD]&gt;)&gt;&gt;" />
+  <p k="strings-family-heading-sentences.family-n-label" v="Family&lt; [M:Number]&gt;" />
+  <p k="strings-family-heading-sentences.family-n-value" v="&lt;[PO]&lt; (&lt;b. [PO:PB]&gt;&lt;[+:, ]d. [PO:PD]&gt;)&gt;&gt;" />
+  <p k="strings-family-heading-sentences.role-child" v="Child" />
+  <p k="strings-family-heading-sentences.role-child-label" v="Child" />
+  <p k="strings-family-heading-sentences.role-partner" v="Partner" />
+  <p k="strings-family-heading-sentences.role-partner-label" v="Partner" />
+  <p k="strings-family-heading-sentences.role-subject" v="Subject" />
+  <p k="strings-family-heading-sentences.role-subject-label" v="Subject" />
+  <p k="strings-gender.f" v="F" />
+  <p k="strings-gender.m" v="M" />
+  <p k="strings-gender.u" v="U" />
+  <p k="strings-id-lookup.id-label" v="ID Number" />
+  <p k="strings-id-lookup.submit-label" v="Go" />
+  <p k="strings-living.f" v="deceased" />
+  <p k="strings-living.t" v="living" />
+  <p k="strings-names.missing-given" v="?" />
+  <p k="strings-names.missing-surname" v="?" />
+  <p k="strings-names.missing-surname-character" v="?" />
+  <p k="strings-pages.next-page-caption" v="Next Page" />
+  <p k="strings-pages.prev-page-caption" v="Previous Page" />
+  <p k="strings-pages.title-name-index" v="Name Index {0}" />
+  <p k="strings-pages.title-person-page" v="Person Page {0}" />
+  <p k="strings-pages.title-source-page" v="Source Page {0}" />
+  <p k="strings-pages.title-surname-index" v="Surname Index {0}" />
+  <p k="strings-people.multiple-children" v="children" />
+  <p k="strings-people.multiple-partners" v="partners" />
+  <p k="strings-people.one-child" v="child" />
+  <p k="strings-people.one-partner" v="partner" />
+  <p k="strings-people.zero-children" v="children" />
+  <p k="strings-people.zero-partners" v="partners" />
+  <p k="strings-person-entry.citation-section-heading" v="Citations" />
+  <p k="strings-person-entry.family-section-label" v="Family:" />
+  <p k="strings-person-entry.father-label" v="Father" />
+  <p k="strings-person-entry.id-prefix" v="#" />
+  <p k="strings-person-entry.last-edited" v="Last Edited" />
+  <p k="strings-person-entry.mother-label" v="Mother" />
+  <p k="strings-person-entry.parent-label" v="Parent" />
+  <p k="strings-person-entry.parent-section-heading" v="Parents" />
+  <p k="strings-person-entry.subject-label" v="Subject" />
+  <p k="strings-places.prefix-at" v="at" />
+  <p k="strings-places.prefix-detail" v="at" />
+  <p k="strings-places.prefix-in" v="at" />
+  <p k="strings-places.prefix-no-detail" v="at" />
+  <p k="strings-places.suffix-multi-part" v="," />
+  <p k="strings-places.suffix-single-part" v="" />
+  <p k="strings-pronouns.object-pronoun-female" v="her" />
+  <p k="strings-pronouns.object-pronoun-male" v="him" />
+  <p k="strings-pronouns.object-pronoun-multiple" v="them" />
+  <p k="strings-pronouns.object-pronoun-unknown" v="him/her" />
+  <p k="strings-pronouns.possessive-pronoun-female" v="her" />
+  <p k="strings-pronouns.possessive-pronoun-male" v="his" />
+  <p k="strings-pronouns.possessive-pronoun-multiple" v="their" />
+  <p k="strings-pronouns.possessive-pronoun-unknown" v="his/her" />
+  <p k="strings-pronouns.subject-pronoun-female" v="she" />
+  <p k="strings-pronouns.subject-pronoun-male" v="he" />
+  <p k="strings-pronouns.subject-pronoun-multiple" v="they" />
+  <p k="strings-pronouns.subject-pronoun-unknown" v="he/she" />
+  <p k="strings-search.basic-mode" v="Basic" />
+  <p k="strings-search.birth-year-label" v="Birth Year" />
+  <p k="strings-search.birth-year-prefix" v="b:" />
+  <p k="strings-search.death-year-label" v="Death Year" />
+  <p k="strings-search.death-year-prefix" v="d:" />
+  <p k="strings-search.father-label" v="Father" />
+  <p k="strings-search.father-prefix" v="father:" />
+  <p k="strings-search.given-label" v="First &amp; Middle Name(s)" />
+  <p k="strings-search.mother-label" v="Mother" />
+  <p k="strings-search.mother-prefix" v="mother:" />
+  <p k="strings-search.name-variation-prefix" v="var:" />
+  <p k="strings-search.next-button" v="Next »" />
+  <p k="strings-search.no-matches" v="No matches" />
+  <p k="strings-search.place-prefix" v="place:" />
+  <p k="strings-search.places-label" v="Places" />
+  <p k="strings-search.previous-button" v="« Previous" />
+  <p k="strings-search.reference-prefix" v="see:" />
+  <p k="strings-search.regular-expressions-mode" v="Regular Expressions" />
+  <p k="strings-search.reset-button-label" v="Reset" />
+  <p k="strings-search.result-counts" v="Results {0} to {1} of {2}" />
+  <p k="strings-search.spouse-label" v="Spouse" />
+  <p k="strings-search.spouse-prefix" v="sp:" />
+  <p k="strings-search.subject-label" v="Subject" />
+  <p k="strings-search.submit-button-label" v="Search" />
+  <p k="strings-search.surname-label" v="Surname" />
+  <p k="strings-search.threshold-message" v="The following results are not close matches, but may be of interest." />
+  <p k="strings-sentences.break" v="&lt;br&gt;" />
+  <p k="strings-sentences.clause-punctuation" v=";," />
+  <p k="strings-sentences.conjunction-more-items" v=", and " />
+  <p k="strings-sentences.conjunction-two-items" v=" and " />
+  <p k="strings-sentences.new-paragraph" v="&lt;br&gt;&lt;br&gt;&lt;span class=&quot;gs-p-indent&quot;&gt;&lt;/span&gt;" />
+  <p k="strings-sentences.punctuation-between-items" v=", " />
+  <p k="strings-sentences.sentence-punctuation" v=".?!" />
+  <p k="strings-surname-index.continued" v=" (continued)" />
+</p>
